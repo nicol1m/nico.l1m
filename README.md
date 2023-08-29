@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @studiohouseclub aka Nico Lim
-- 👀 I’m interested in creating web baseed creative codng projects and Electron.js apps
-- 🌱 I’m currently learning basic HTML...we all gotta start somewhere!
-- 💞️ I’m looking to collaborate on learning programming language
+- 👋 Hi, I’m Nico Lim
+- 👀 I’m interested in creating web baseed creative codng projects.
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me nicolimwork@gmail.com
 
 <!---
